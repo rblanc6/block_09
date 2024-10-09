@@ -1,4 +1,4 @@
-# This is my personal site with a brief bio.  It focuses on three main areas: the landing page, an about page, and a portfolio page.
+# This is my personal site with a brief bio. It focuses on three main areas: the landing page, an about page, and a portfolio page.
 
 The landing page includes a brief bio.
 
